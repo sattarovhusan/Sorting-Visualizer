@@ -1,3 +1,19 @@
+This is a sorting visualizer that allows you to visualize how various sorting-algorithms work.
+
+This sorting visualizer allows you to visualize how the following sorting algorithms work:
+
+1) Bubble Sort
+2) Selection Sort
+3) Insertion Sort
+4) Quick Sort (Lomuto Parition scheme)
+This project has taught me a lot about how these sorting algorithms work and hopefully this visualizer can help others understand how these algorithms work!
+
+To create this project, I used HTML, CSS and React.JS.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
